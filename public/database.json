@@ -1,0 +1,202 @@
+[
+  {
+    "pictureURL": "https://example.com/toy1.jpg",
+    "name": "Toy 1",
+    "sellerName": "Seller 1",
+    "sellerEmail": "seller1@example.com",
+    "subCategory": "Action Figures",
+    "price": 9.99,
+    "rating": 4.5,
+    "availableQuantity": 10,
+    "description": "This is a fantastic action figure that kids will love."
+  },
+  {
+    "pictureURL": "https://example.com/toy2.jpg",
+    "name": "Toy 2",
+    "sellerName": "Seller 2",
+    "sellerEmail": "seller2@example.com",
+    "subCategory": "Dolls",
+    "price": 14.99,
+    "rating": 4.2,
+    "availableQuantity": 5,
+    "description": "A beautiful doll with realistic features and clothing."
+  },
+  {
+    "pictureURL": "https://example.com/toy3.jpg",
+    "name": "Toy 3",
+    "sellerName": "Seller 3",
+    "sellerEmail": "seller3@example.com",
+    "subCategory": "Building Blocks",
+    "price": 24.99,
+    "rating": 4.8,
+    "availableQuantity": 8,
+    "description": "Build and create with these colorful building blocks."
+  },
+  {
+    "toyName": "barbie",
+    "toyPhoto": "https://www.befunky.com/images/prismic/5ddfea42-7377-4bef-9ac4-f3bd407...",
+    "name": "mohammed",
+    "email": "hazzadmdap@gmail.com",
+    "category": "doll",
+    "price": "120",
+    "rating": "4.5",
+    "quantity": "12",
+    "details": "asdjhalksjdhka"
+  },
+  {
+    "name": "mohammed",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "sellerName": "tanu",
+    "email": "test2@gmail.com",
+    "subCategory": "doll",
+    "price": "12.22",
+    "rating": "4.5",
+    "availableQuantity": "12",
+    "details": "ASCASCASDCSd"
+  },
+  {
+    "sellerName": "mohammed",
+    "name": "pals",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "test2@gmail.com",
+    "subCategory": "pals",
+    "price": "12.22",
+    "rating": "5",
+    "availableQuantity": "123",
+    "details": "ADSJBHLKjadskjHS"
+  },
+
+  {
+    "sellerName": "mohammed",
+    "name": "pals",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "test2@gmail.com",
+    "subCategory": "doll",
+    "price": "123",
+    "rating": "5",
+    "availableQuantity": "100",
+    "details": "SACASDHFLAHSDLJCHALJ"
+  },
+  {
+    "sellerName": "Mohammad Hazzad",
+    "name": "barbie",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "hazzadmdap@gmail.com",
+    "subCategory": "doll",
+    "price": "12",
+    "rating": "5",
+    "availableQuantity": "100",
+    "details": "ajshgdcjahgsducgasudygcuias"
+  },
+  {
+    "sellerName": "mohammed",
+    "name": "barbie",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "mama@mami.com",
+    "subCategory": "pals",
+    "price": "15",
+    "rating": "5",
+    "availableQuantity": "35",
+    "details": "all is well"
+  },
+  {
+    "sellerName": "mohammed",
+    "name": "pals",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "mama@mami.com",
+    "subCategory": "pals",
+    "price": "120",
+    "rating": "5",
+    "availableQuantity": "234",
+    "details": "akjsdlkjhaklsdhcasd"
+  },
+  {
+    "sellerName": "mohammed",
+    "name": "barbe",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "mama@mami.com",
+    "subCategory": "Doll",
+    "price": "12134",
+    "rating": "5",
+    "availableQuantity": "234",
+    "details": "akjsdlkjhaklsdhcasd"
+  },
+  {
+    "sellerName": "mohammed",
+    "name": "dols",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "mama@mami.com",
+    "subCategory": "Accessories",
+    "price": "12",
+    "rating": "5",
+    "availableQuantity": "2313",
+    "details": "akjsdlkjhaklsdhcasd"
+  },
+
+  {
+    "sellerName": "mohammed",
+    "name": "pals",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "test2@gmail.com",
+    "subCategory": "doll",
+    "price": "123",
+    "rating": "5",
+    "availableQuantity": "100",
+    "details": "SACASDHFLAHSDLJCHALJ"
+  },
+  {
+    "sellerName": "Mohammad Hazzad",
+    "name": "barbie",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "hazzadmdap@gmail.com",
+    "subCategory": "doll",
+    "price": "12",
+    "rating": "5",
+    "availableQuantity": "100",
+    "details": "ajshgdcjahgsducgasudygcuias"
+  },
+  {
+    "sellerName": "mohammed",
+    "name": "barbie",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "mama@mami.com",
+    "subCategory": "pals",
+    "price": "15",
+    "rating": "5",
+    "availableQuantity": "35",
+    "details": "all is well"
+  },
+  {
+    "sellerName": "mohammed",
+    "name": "pals",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "mama@mami.com",
+    "subCategory": "pals",
+    "price": "120",
+    "rating": "5",
+    "availableQuantity": "234",
+    "details": "akjsdlkjhaklsdhcasd"
+  },
+  {
+    "sellerName": "mohammed",
+    "name": "barbe",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "mama@mami.com",
+    "subCategory": "Doll",
+    "price": "12134",
+    "rating": "5",
+    "availableQuantity": "234",
+    "details": "akjsdlkjhaklsdhcasd"
+  },
+  {
+    "sellerName": "mohammed",
+    "name": "dols",
+    "pictureURL": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_360,c_scale...",
+    "email": "mama@mami.com",
+    "subCategory": "Accessories",
+    "price": "12",
+    "rating": "5",
+    "availableQuantity": "2313",
+    "details": "akjsdlkjhaklsdhcasd"
+  }
+]

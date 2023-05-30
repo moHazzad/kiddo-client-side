@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_1512,c_scale/f_auto/q_auto:low/shop-ag-contentstack/bltb45d438501ed3bc7/64496f2bd483864ab3657414/050423-home-card1-bb.jpg",
+      "title": "Item 1",
+      "details": "Details about item 1."
+    },
+    {
+      "id": 2,
+      "image": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_1512,c_scale/f_auto/q_auto:low/shop-ag-contentstack/bltc96989ce60e9bcf4/64013ef6c448032f744a7f4a/031623-home-card-1-ww.jpg",
+      "title": "Item 2",
+      "details": "Details about item 2."
+    },
+    {
+      "id": 3,
+      "image": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_1512,c_scale/f_auto/q_auto:low/shop-ag-contentstack/blta60aa54990a58611/64496f2a7f34014b36bef07b/050423-home-card3-jenis.jpg",
+      "title": "Item 3",
+      "details": "Details about item 3."
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_1512,c_scale/f_auto/q_auto:low/shop-ag-contentstack/blt555e1b2d3b2f9f9b/64139847d1cafd55b2ed0c51/033023-home-feature-hp.jpg",
+      "title": "Item 3",
+      "details": "Details about item 3."
+    },
+    {
+      "id": 5,
+      "image": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_900,c_scale/f_auto/q_auto:low/shop-ag-contentstack/blt70546c8d5a2c1817/64496f36d5d03c0794f1530a/050423-home-story-strawberry-shortcake-alt.jpg",
+      "title": "Item 3",
+      "details": "Details about item 3."
+    },
+    {
+      "id": 6,
+      "image": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_900,c_scale/f_auto/q_auto:low/shop-ag-contentstack/blt70546c8d5a2c1817/64496f36d5d03c0794f1530a/050423-home-story-strawberry-shortcake-alt.jpg",
+      "title": "Item 3",
+      "details": "Details about item 3."
+    },
+    {
+      "id": 7,
+      "image": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_900,c_scale/f_auto/q_auto:low/shop-ag-contentstack/bltf14eb15c308070a2/64496f3688e91a10e63c9e2f/050423-home-story-kit-alt.jpg",
+      "title": "Item 3",
+      "details": "Details about item 3."
+    },
+    {
+      "id": 8,
+      "image": "https://res.cloudinary.com/mattel-dtc-cloud/image/upload/w_900,c_scale/f_auto/q_auto:low/shop-ag-contentstack/bltf14eb15c308070a2/64496f3688e91a10e63c9e2f/050423-home-story-kit-alt.jpg",
+      "title": "Item 3",
+      "details": "Details about item 3."
+    }
+  ]
+  
